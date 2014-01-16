@@ -1,0 +1,15 @@
+15.1.2014 (Klo. 12.30-16.30)
+
+AIHEMÄÄRITTELY
+
+Aihe: Asunnon pohjapiirustuksen suunnitteleminen
+Toteutetaan ohjelma, jonka avulla pystytään hahmottaa ja suunnitella asunnon pohjapiirustus sijoittamalla neliön muotoisia huoneita ruudukkoon eli asuntoon. Ruudukon vieressä on lista valmiista huoneista, jotka voidaan valita ja napsauttaa ruutuihin.
+
+Käyttäjä: Ohjelman käyttäjä
+
+Käyttäjän toiminnot:
+-Asunnon pohjan (suorakulmaisen ruudukon) koon valitseminen (esim. 2x2, 4x7)
+-Huoneiden klikkaaminen ja sijoittaminen ruutuihin (ainoastaan 1 huone/ruutu)
+-Valmis-painike --> Näyttää kuvan lopullisesta pohjapiiroksesta!
+
+
