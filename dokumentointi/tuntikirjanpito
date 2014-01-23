@@ -1,5 +1,6 @@
 15.1.2014 Torstai (Klo. 12.30-16.30)
 Aloitin luomalla Githubin, rekisteröidyin labtooliin, loin NetBeans -projektin ja tein tarvittavat alkutoimet sinne sekä kirjasin aihemäärittelyni pohjapiirustus-projektistani omaan kansioon :)
 
-23.1.2014 Torstai (Klo. 15.30- )
-Toisen viikon hommat lähti käyntiin luokkakaavion hahmottamisella. Piirsin paperille eri vaihtoehtoja ja variaatioita. 
+23.1.2014 Torstai (Klo. 15.30-19.00 )
+Toisen viikon hommat lähtivät käyntiin luokkakaavion hahmottelemisella. Piirsin paperille useita eri vaihtoehtoja ja variaatioita sopivasta luokkakaaviosta, mutta se tuntui vaikealta. Lopulta hahmotin suurimman osan luokista, mutta lisään ensi viikolla vielä luokan, jossa ohjelman logiikka pääpiirtein sijaitsee. 
+Sitten piirsin luokkakaavion yEd:llä, ohjelmoin TalonKoko-luokan, tein sille oman testiluokan ja lähetin kaiken GitHubiin.
