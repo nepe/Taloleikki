@@ -12,4 +12,5 @@ package taloleikkiprojekti.taloleikki;
  */
 public class HuoneLista {
     
+    
 }
